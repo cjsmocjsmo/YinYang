@@ -1,7 +1,6 @@
 
 
-<!-- this is a test
-this is another test -->
+<!-- this is test one -->
 
 
 <div class="foo">
